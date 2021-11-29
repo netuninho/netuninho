@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manuela
 - 👀 I’m interested in nature, animals and code
-- 🌱 I’m currently learning PHP and HTML
+- 🌱 I’m currently learning PHP, HTML, CSS and Java
 - 📫 How to reach me - instagram - @netuninho
 - ✨ She/Ella/Ela
 
