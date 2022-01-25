@@ -1,6 +1,6 @@
 ## Hi, I’m Manuela
 - 👀 I’m interested in nature, animals and code
-- 🌱 I’m currently learning PHP, HTML, CSS, Java and JavaScript
+- 🌱 I’m currently learning PHP, HTML, CSS and JavaScript
 - ✨ She/Ella/Ela
 
 <div align="center">
