@@ -16,10 +16,11 @@
   <img align="center" alt="Netuninho-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   </div>
   
-  <div>
+  <div style="display: inline_block"> <br>
      <img align="right" alt="Netuninho-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/035a6f6789ddee122d40696c58ced675.gif">
   </div>
-  <div>
+  
+  <div> <br>
   <a href="https://www.instagram.com/netuninho/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:manuelass.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/manuela-silva-588ab71a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
