@@ -1,6 +1,6 @@
 ## Hi, I’m Manuela
 - 👀 I’m interested in nature, animals and code
-- 🌱 I’m currently learning JavaScript and React
+- 🌱 I’m currently learning JavaScript, Typescript and React
 - ✨ She/Ella/Ela
 
 <div align="center">
