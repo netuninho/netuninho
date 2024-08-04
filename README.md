@@ -31,7 +31,7 @@
   </div>
   
   <div style="display: inline_block"> <br>
-     <img align="right" alt="Netuninho-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/035a6f6789ddee122d40696c58ced675.gif">
+     <img align="right" alt="Netuninho-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/c0f9a4eb06ed3cb772bc2418c2b34b54.gif">
   </div>
   
   <div> <br>
