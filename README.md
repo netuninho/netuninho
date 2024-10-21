@@ -2,8 +2,7 @@
 - 👀 I’m interested in nature, animals and code
 - 🌱 I’m currently learning React, React Native and Figma
 - ✨ She/Ella/Ela
-- 👩‍💻 Front-end Developer
-- 🔎 Searching for a new job opportunity
+- 👩‍💻 Front-end Developer at Alura
 
 <div align="center">
   <a href="https://github.com/netuninho">
