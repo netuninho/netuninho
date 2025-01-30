@@ -1,6 +1,6 @@
 ## Hi, I’m Manuela
 - 👀 I’m interested in nature, animals and code
-- 🌱 I’m currently learning React, React Native and Figma
+- 🌱 I’m currently learning React, Threejs and Figma
 - ✨ She/Ella/Ela
 - 👩‍💻 Front-end Developer at Alura
 
