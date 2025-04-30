@@ -1,6 +1,6 @@
 ## Hi, I’m Manuela
 - 👀 I’m interested in nature, animals and code
-- 🌱 I’m currently learning Threejs and CSS Animation
+- 🌱 I’m currently learning Tailwind, Nextjs and CSS Animation
 - ✨ She/Ella/Ela
 - 👩‍💻 Front-end Developer at Alura
 
