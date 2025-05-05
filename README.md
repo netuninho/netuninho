@@ -1,8 +1,15 @@
-## Hi, I’m Manuela
-- 👀 I’m interested in nature, animals and code
-- 🌱 I’m currently learning Tailwind, Nextjs and CSS Animation
-- ✨ She/Ella/Ela
-- 👩‍💻 Front-end Developer at Alura
+<h1 align='center'>Hi, I’m Manuela</h1>
+
+<table align="center">
+  <tr>
+    <td>
+      <p>👀 I’m interested in nature, animals and code</p>
+      <p>🌱 I’m currently learning Tailwind, Nextjs and CSS Animation</p>
+      <p>✨ She/Ella/Ela</p>
+      <p>🖥️ Front-end Developer at Alura</p>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <a href="https://github.com/netuninho">
