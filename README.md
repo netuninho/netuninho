@@ -19,8 +19,8 @@
 
 <div align="center">
   <a href="https://github.com/netuninho">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=netuninho&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netuninho&layout=compact&langs_count=7&theme=nightowl"> <br/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=netuninho&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netuninho&layout=compact&langs_count=7&theme=nightowl&hide_border=true"> <br/>
 </div>
 
 <h3 align="center">Stacks and Tools</h3>
@@ -42,7 +42,7 @@
 </div> <br/>
 
   <div align="center">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Manuela streak" src="https://github-readme-streak-stats.herokuapp.com/?user=netuninho&theme=nightowl"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Manuela streak" src="https://github-readme-streak-stats.herokuapp.com/?user=netuninho&theme=nightowl&hide_border=true"/>
   </div>
   
   <div style="display: inline_block"> <br>
