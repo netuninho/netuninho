@@ -42,7 +42,7 @@
 </div> <br/>
 
   <div align="center">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Manuela streak" src="https://github-readme-streak-stats.herokuapp.com/?user=netuninho&theme=nightowl&hide_border=true"/>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=netuninho&theme=nightowl&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
   </div>
   
   <div style="display: inline_block"> <br>
