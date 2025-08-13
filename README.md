@@ -21,6 +21,8 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netuninho&layout=compact&langs_count=7&theme=nightowl&hide_border=true"/>
 </div>
 
+<br>
+
 <h3 align="center">🛠️ Stacks & Tools</h3>
 <div align="center">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP"/>
@@ -35,6 +37,8 @@
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind"/>
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma"/>
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=netuninho&theme=nightowl&hide_border=true&short_numbers=true" alt="GitHub Streak"/>
