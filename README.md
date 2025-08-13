@@ -1,13 +1,18 @@
 <h1 align="center">Hi, I’m Manuela 🥰</h1>
 
 <div align="center">
-  <img src="https://i.postimg.cc/pV1jQp7B/tkthao219-bubududu.gif" height="150" style="border-radius:20px;" alt="Bubududu"/>
+  <div style="display: inline-block;">
+    <p>👋 I’m a Front-end Developer who loves code, animals and nature.</p>
+    <p>🌱 Currently exploring Tailwind, Next.js & CSS animations to bring ideas to life.</p>
+    <p>💛 Passionate about accessibility, good design and making the web a friendlier place.</p>
+    <p>✨ Pronouns: She / Ella / Ela</p>
+  </div>
+
+  <div style="display: inline-block; vertical-align: middle;">
+    <img src="https://i.postimg.cc/pV1jQp7B/tkthao219-bubududu.gif" height="150" style="border-radius:20px;" alt=""/>
+  </div>
 </div>
 
-**👀 Nature, animals & code**  
-**🌱 Learning:** Tailwind, Next.js & CSS Animations  
-**✨ Pronouns:** She / Ella / Ela  
-**🖥️ Front-end Developer @ Alura**
 
 ---
 
@@ -15,8 +20,6 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=netuninho&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netuninho&layout=compact&langs_count=7&theme=nightowl&hide_border=true"/>
 </div>
-
----
 
 <h3 align="center">🛠️ Stacks & Tools</h3>
 <div align="center">
@@ -32,8 +35,6 @@
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind"/>
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma"/>
 </div>
-
----
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=netuninho&theme=nightowl&hide_border=true&short_numbers=true" alt="GitHub Streak"/>
@@ -54,6 +55,6 @@
   </a>
 </div>
 
----
+<br>
 
 <p align="center"><i>💛 Code with heart. Design with purpose 💛</i></p>
