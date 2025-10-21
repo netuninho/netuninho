@@ -4,7 +4,7 @@
       <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=150&color=A64AC9&width=435&lines=Hi%2C+I'm+Manuela+%F0%9F%91%8B%F0%9F%8F%BB;I'm+a+Front-End+Developer+%F0%9F%92%95" alt="Typing SVG" />
       </a>
-      <p>🥰 I love code, animals and games.</p>
+      <p>🥰 I love code, animals, music, and learning new languages.</p>
       <p>🌱 Currently exploring Tailwind, Next.js & CSS animations to bring ideas to life.</p>
       <p>🧡 Passionate about accessibility, good design and making the web a friendlier place.</p>
       <p>✨ Pronouns: She / Ella / Ela</p>
