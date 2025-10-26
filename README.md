@@ -31,7 +31,7 @@
   <p>
     <img src="https://img.shields.io/badge/PHP-A64AC9?style=for-the-badge&logo=php&logoColor=white"/>
     <img src="https://img.shields.io/badge/HTML5-A64AC9?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS-A64AC9?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS-A64AC9?style=for-the-badge&logo=css&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-A64AC9?style=for-the-badge&logo=javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/TypeScript-A64AC9?style=for-the-badge&logo=typescript&logoColor=white"/>
   </p>
@@ -41,6 +41,7 @@
     <img src="https://img.shields.io/badge/Next.js-A64AC9?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node.js-A64AC9?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/Tailwind_CSS-A64AC9?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Bootstrap-A64AC9?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img src="https://img.shields.io/badge/Figma-A64AC9?style=for-the-badge&logo=figma&logoColor=white"/>
   </p>
 
